@@ -2,9 +2,10 @@
 
 # What you need
 
-*   stable preconfigured miner for ethereum
+*   stable preconfigured miner for Ethereum
 *   ezil account (this configuration are all for ezil.me)
 *   minerstat account
+*   edit eth, zil and ton addresses to your own
 
 # Tripple coin mining
 
@@ -36,8 +37,8 @@
 # How to get ETH, ZIL and TON wallet adress
 
 *   for ETH is primary choice metamask
-*   for ZIL go to binance, click deposit, find ZIL and check your deposit address. This is your ZIL address what you use in minerstat.
-*   for TON you need download wallet app. Stick to opensource wallets like: [https://github.com/ton-blockchain/wallet-desktop/releases](https://github.com/ton-blockchain/wallet-desktop/releases)
+*   for ZIL go to binance, click deposit, find ZIL and check your deposit address. This is your ZIL address, what you use in minerstat.
+*   for TON you need to download wallet app. Stick to open source wallets like: [https://github.com/ton-blockchain/wallet-desktop/releases](https://github.com/ton-blockchain/wallet-desktop/releases)
 
 # Sources
 
